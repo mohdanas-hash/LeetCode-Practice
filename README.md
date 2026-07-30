@@ -72,9 +72,14 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0069-sqrtx) |
 | [1037-valid-boomerang](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1037-valid-boomerang) |
 ## Geometry
 |  |
 | ------- |
 | [1037-valid-boomerang](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1037-valid-boomerang) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

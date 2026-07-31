@@ -72,6 +72,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [1037-valid-boomerang](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1037-valid-boomerang) |

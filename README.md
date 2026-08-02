@@ -56,6 +56,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0038-count-and-say) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |

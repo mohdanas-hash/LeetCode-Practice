@@ -53,6 +53,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [3731-find-missing-elements](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -71,6 +72,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | ------- |
 | [0048-rotate-image](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [1037-valid-boomerang](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1037-valid-boomerang) |
+| [3731-find-missing-elements](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -104,4 +106,8 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0048-rotate-image) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->

@@ -59,6 +59,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | ------- |
 | [0038-count-and-say](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0038-count-and-say) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Queue
 |  |
@@ -98,6 +99,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0070-climbing-stairs) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Memoization
 |  |
 | ------- |
@@ -147,9 +149,14 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 ## Greedy
 |  |
 | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->

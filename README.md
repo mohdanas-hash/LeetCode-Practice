@@ -72,6 +72,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [0980-unique-paths-iii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0980-unique-paths-iii) |
 | [1037-valid-boomerang](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1037-valid-boomerang) |
@@ -132,6 +133,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0039-combination-sum) |
 | [0980-unique-paths-iii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0980-unique-paths-iii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation

@@ -99,6 +99,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0278-first-bad-version) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -193,4 +194,8 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1510-stone-game-iv) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

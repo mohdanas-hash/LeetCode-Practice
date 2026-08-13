@@ -75,6 +75,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | ------- |
 | [0039-combination-sum](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0980-unique-paths-iii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0980-unique-paths-iii) |
@@ -103,6 +104,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0278-first-bad-version) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -125,6 +127,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0980-unique-paths-iii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0980-unique-paths-iii) |
 ## Sorting
 |  |

@@ -93,6 +93,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3731-find-missing-elements) |
@@ -109,6 +110,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [1510-stone-game-iv](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/2029-stone-game-ix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Geometry
@@ -124,6 +126,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [0278-first-bad-version](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -174,6 +177,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0980-unique-paths-iii) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hamiltonian Path
 |  |
@@ -193,6 +197,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 ## Number Theory
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
 |  |
@@ -255,4 +260,8 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->

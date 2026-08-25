@@ -90,6 +90,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [0980-unique-paths-iii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0980-unique-paths-iii) |
 | [1037-valid-boomerang](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1037-valid-boomerang) |
 | [1140-stone-game-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/2029-stone-game-ix) |
@@ -111,6 +112,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [0326-power-of-three](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0326-power-of-three) |
 | [1037-valid-boomerang](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1037-valid-boomerang) |
 | [1140-stone-game-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1872-stone-game-viii) |
@@ -139,6 +141,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | ------- |
 | [0070-climbing-stairs](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [1140-stone-game-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1872-stone-game-viii) |
@@ -217,6 +220,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/2029-stone-game-ix) |
@@ -229,6 +233,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1872-stone-game-viii) |
@@ -238,6 +243,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/2029-stone-game-ix) |

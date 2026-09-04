@@ -113,6 +113,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [3731-find-missing-elements](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
@@ -251,6 +252,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | ------- |
 | [1140-stone-game-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1872-stone-game-viii) |
+| [3903-smallest-stable-index-i](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3903-smallest-stable-index-i) |
 ## Game Theory
 |  |
 | ------- |

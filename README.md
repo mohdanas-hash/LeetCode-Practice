@@ -65,6 +65,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | ------- |
 | [0038-count-and-say](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0038-count-and-say) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0940-distinct-subsequences-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -155,6 +156,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0070-climbing-stairs) |
+| [0940-distinct-subsequences-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1510-stone-game-iv) |

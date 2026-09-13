@@ -52,6 +52,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -88,6 +89,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |

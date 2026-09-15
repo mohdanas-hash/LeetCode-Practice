@@ -92,6 +92,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | ------- |
 | [0001-two-sum](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
@@ -200,6 +201,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0016-3sum-closest) |
 | [0969-pancake-sorting](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -264,6 +266,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0016-3sum-closest) |
 | [0969-pancake-sorting](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |

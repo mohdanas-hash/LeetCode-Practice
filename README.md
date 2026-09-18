@@ -103,6 +103,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [0075-sort-colors](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -357,6 +358,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |

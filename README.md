@@ -115,6 +115,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [0969-pancake-sorting](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [0980-unique-paths-iii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0980-unique-paths-iii) |
+| [1004-max-consecutive-ones-iii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1037-valid-boomerang](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1037-valid-boomerang) |
 | [1140-stone-game-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1406-stone-game-iii) |
@@ -183,6 +184,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [0278-first-bad-version](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -314,6 +316,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1872-stone-game-viii) |
@@ -368,6 +371,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [0424-longest-repeating-character-replacement](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |

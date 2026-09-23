@@ -83,6 +83,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [0424-longest-repeating-character-replacement](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-distinct-subsequences-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1768-merge-strings-alternately](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -325,6 +326,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [0969-pancake-sorting](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1768-merge-strings-alternately](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1768-merge-strings-alternately) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |

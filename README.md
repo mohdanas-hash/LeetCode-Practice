@@ -318,6 +318,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | ------- |
 | [0015-3sum](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0142-linked-list-cycle-ii) |
@@ -440,6 +441,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0142-linked-list-cycle-ii) |
 ## Floyd's Cycle Finding Algorithm

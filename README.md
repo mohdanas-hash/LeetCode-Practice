@@ -60,6 +60,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [0387-first-unique-character-in-a-string](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0904-fruit-into-baskets) |
+| [1096-brace-expansion-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -83,6 +84,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [0392-is-subsequence](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-distinct-subsequences-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1768-merge-strings-alternately](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1927-sum-game) |
@@ -253,6 +255,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [0075-sort-colors](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0969-pancake-sorting](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -269,6 +272,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -280,6 +284,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | ------- |
 | [0039-combination-sum](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0039-combination-sum) |
 | [0980-unique-paths-iii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0980-unique-paths-iii) |
+| [1096-brace-expansion-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
 |  |
@@ -461,4 +466,8 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->

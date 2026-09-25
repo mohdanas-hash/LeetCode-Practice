@@ -115,6 +115,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [0016-3sum-closest](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -215,6 +216,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0940-distinct-subsequences-ii) |
@@ -470,4 +472,8 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1096-brace-expansion-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

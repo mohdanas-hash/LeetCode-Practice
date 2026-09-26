@@ -135,6 +135,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [1004-max-consecutive-ones-iii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1037-valid-boomerang](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1037-valid-boomerang) |
 | [1140-stone-game-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1140-stone-game-ii) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1406-stone-game-iii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -226,6 +227,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [0392-is-subsequence](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1140-stone-game-ii) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1406-stone-game-iii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |

@@ -130,6 +130,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [0287-find-the-duplicate-number](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0904-fruit-into-baskets) |
@@ -373,6 +374,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |

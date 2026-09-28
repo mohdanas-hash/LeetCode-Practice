@@ -148,6 +148,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [1563-stone-game-v](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1872-stone-game-viii) |
@@ -379,6 +380,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [1140-stone-game-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1732-find-the-highest-altitude](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3904-smallest-stable-index-ii) |

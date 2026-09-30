@@ -262,6 +262,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0326-power-of-three) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
@@ -486,6 +487,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |

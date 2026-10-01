@@ -119,6 +119,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0039-combination-sum) |
@@ -337,6 +338,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0011-container-with-most-water) |
 | [0969-pancake-sorting](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0969-pancake-sorting) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1927-sum-game) |
@@ -354,6 +356,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |

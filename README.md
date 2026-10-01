@@ -128,6 +128,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [0075-sort-colors](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
@@ -186,6 +187,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [0048-rotate-image](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0326-power-of-three) |
 | [0836-rectangle-overlap](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0836-rectangle-overlap) |
@@ -358,6 +360,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [0075-sort-colors](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |

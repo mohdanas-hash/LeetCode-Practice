@@ -9,10 +9,10 @@ Welcome to my personal repository where I maintain solutions to problem-solving 
 | Category | Problems Solved |
 | :--- | :---: |
 
-| 🟢 Easy | 36 |
-| 🟡 Medium | 8 |
-| 🔴 Hard | 0 |
-| **Total** | **100** |
+| 🟢 Easy | 81 |
+| 🟡 Medium | 67 |
+| 🔴 Hard | 19 |
+| **Total** | **167** |
 
 ---
 

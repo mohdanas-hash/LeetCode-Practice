@@ -131,6 +131,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [0057-insert-interval](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0189-rotate-array) |
@@ -294,6 +295,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [0016-3sum-closest](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
 | [0969-pancake-sorting](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1096-brace-expansion-ii) |
@@ -375,6 +377,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [0016-3sum-closest](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0189-rotate-array) |

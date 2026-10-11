@@ -82,6 +82,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0076-minimum-window-substring) |
@@ -123,6 +124,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | ------- |
 | [0001-two-sum](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0039-combination-sum) |
@@ -566,4 +568,8 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

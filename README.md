@@ -83,6 +83,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0038-count-and-say) |
+| [0058-length-of-last-word](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |

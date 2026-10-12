@@ -87,6 +87,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [0038-count-and-say](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0392-is-subsequence) |
@@ -385,6 +386,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0189-rotate-array) |

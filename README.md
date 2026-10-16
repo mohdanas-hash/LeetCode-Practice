@@ -147,6 +147,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [0283-move-zeroes](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0503-next-greater-element-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0643-maximum-average-subarray-i) |
@@ -544,6 +545,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 ## Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -604,4 +606,8 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0986-interval-list-intersections) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->

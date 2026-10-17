@@ -153,6 +153,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [0643-maximum-average-subarray-i](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0904-fruit-into-baskets) |
@@ -546,6 +547,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -610,4 +612,5 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->

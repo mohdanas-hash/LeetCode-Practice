@@ -96,6 +96,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -551,6 +552,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Divide and Conquer
 |  |

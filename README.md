@@ -325,12 +325,14 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1096-brace-expansion-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3310-remove-methods-from-project) |
@@ -514,10 +516,12 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0100-same-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0100-same-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Quicksort
 |  |

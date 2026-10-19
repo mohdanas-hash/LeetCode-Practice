@@ -1,11 +1,11 @@
 class Solution {
 public:
     vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
-        int insertIdx = 0;
-        while (insertIdx < intervals.size() && intervals[insertIdx][0] < newInterval[0]) {
-            insertIdx++;
+        int i = 0;
+        while (i < intervals.size() && intervals[i][0] < newInterval[0]) {
+            i++;
         }
-        intervals.insert(intervals.begin() + insertIdx, newInterval);
+        intervals.insert(intervals.begin() + i, newInterval);
 
         
         vector<vector<int>> res;

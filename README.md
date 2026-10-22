@@ -411,6 +411,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [0986-interval-list-intersections](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0986-interval-list-intersections) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -539,6 +540,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [0141-linked-list-cycle](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |

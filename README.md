@@ -84,6 +84,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0058-length-of-last-word) |
@@ -555,6 +556,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0503-next-greater-element-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -574,6 +576,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |

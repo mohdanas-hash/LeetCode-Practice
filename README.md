@@ -83,6 +83,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -261,6 +262,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0152-maximum-product-subarray) |
@@ -392,6 +394,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0016-3sum-closest) |
@@ -628,4 +631,8 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0739-daily-temperatures) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

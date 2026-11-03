@@ -543,6 +543,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0021-merge-two-sorted-lists) |
+| [0092-reverse-linked-list-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0206-reverse-linked-list) |

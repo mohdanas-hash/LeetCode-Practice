@@ -150,6 +150,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [0134-gas-station](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0174-dungeon-game](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0219-contains-duplicate-ii) |
@@ -273,6 +274,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [0053-maximum-subarray](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0174-dungeon-game) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0392-is-subsequence](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0392-is-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0918-maximum-sum-circular-subarray) |
@@ -309,6 +311,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | ------- |
 | [0048-rotate-image](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0174-dungeon-game](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0174-dungeon-game) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0835-image-overlap](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0835-image-overlap) |
 | [0980-unique-paths-iii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0980-unique-paths-iii) |

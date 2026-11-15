@@ -56,6 +56,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [0076-minimum-window-substring](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0149-max-points-on-a-line](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0219-contains-duplicate-ii) |
@@ -148,6 +149,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [0088-merge-sorted-array](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0134-gas-station) |
+| [0149-max-points-on-a-line](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0174-dungeon-game](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0174-dungeon-game) |
@@ -217,6 +219,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [0048-rotate-image](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0326-power-of-three) |
@@ -244,6 +247,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0149-max-points-on-a-line) |
 | [0836-rectangle-overlap](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0836-rectangle-overlap) |
 | [1037-valid-boomerang](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1037-valid-boomerang) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -657,4 +661,12 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->

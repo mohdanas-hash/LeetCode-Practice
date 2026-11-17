@@ -60,6 +60,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [0202-happy-number](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0219-contains-duplicate-ii) |
+| [0383-ransom-note](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0525-contiguous-array) |
@@ -94,6 +95,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [0125-valid-palindrome](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -125,6 +127,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [2029-stone-game-ix](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |

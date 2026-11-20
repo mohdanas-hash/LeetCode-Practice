@@ -351,6 +351,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -545,12 +546,14 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -669,6 +672,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 ## Binary Search Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Euclidean Algorithm
 |  |

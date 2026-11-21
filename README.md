@@ -54,6 +54,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | ------- |
 | [0001-two-sum](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0076-minimum-window-substring) |
+| [0133-clone-graph](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0149-max-points-on-a-line) |
@@ -353,6 +354,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0100-same-tree) |
+| [0133-clone-graph](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0133-clone-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3310-remove-methods-from-project) |
@@ -360,6 +362,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0100-same-tree) |
+| [0133-clone-graph](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0133-clone-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1096-brace-expansion-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3310-remove-methods-from-project) |
@@ -367,6 +370,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0133-clone-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [3310-remove-methods-from-project](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3310-remove-methods-from-project) |
 ## Backtracking

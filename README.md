@@ -97,6 +97,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [0076-minimum-window-substring](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0205-isomorphic-strings) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -355,6 +356,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [0099-recover-binary-search-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0133-clone-graph](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0133-clone-graph) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3310-remove-methods-from-project) |
@@ -363,6 +365,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | ------- |
 | [0100-same-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0133-clone-graph](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0133-clone-graph) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1096-brace-expansion-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3310-remove-methods-from-project) |
@@ -553,6 +556,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [0099-recover-binary-search-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -560,6 +564,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [0099-recover-binary-search-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Quicksort
 |  |
@@ -686,4 +691,8 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0149-max-points-on-a-line) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->

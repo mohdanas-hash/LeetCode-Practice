@@ -627,6 +627,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0196-delete-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/1148-article-views-i) |

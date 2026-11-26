@@ -169,6 +169,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [0283-move-zeroes](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0498-diagonal-traverse](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0560-subarray-sum-equals-k) |
@@ -327,6 +328,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [0074-search-a-2d-matrix](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0174-dungeon-game](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0174-dungeon-game) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0498-diagonal-traverse](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0498-diagonal-traverse) |
 | [0835-image-overlap](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0835-image-overlap) |
 | [0980-unique-paths-iii](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0980-unique-paths-iii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -539,6 +541,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0498-diagonal-traverse) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Combinatorics

@@ -560,6 +560,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [0100-same-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -568,6 +569,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | [0100-same-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Quicksort
 |  |
@@ -688,6 +690,7 @@ If you are using the **LeetHub v2** extension, it can automatically update and m
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/mohdanas-hash/LeetCode-Practice/tree/master/0700-search-in-a-binary-search-tree) |
 ## Euclidean Algorithm
 |  |
 | ------- |
